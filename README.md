@@ -15,9 +15,5 @@
 - [Ravada Karan](https://www.linkedin.com/in/ravada-karan-6626311b7)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-built-using-a-name--built_usinga)
-## :brain: Contribution over Time 
-<div align="center">
- <a href="https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=kulkarniishan/Snake-game-using-java">
-  <img src="https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=kulkarniishan/Snake-game-using-java" alt="Contribution image"/>
- </a>
+
 </div>
